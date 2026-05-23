@@ -7,7 +7,7 @@ var
 
 begin
   
-  writeln('=== PROGRAM PENILAIAN MAHASISWA ===');
+  writeln('=== PROGRAM HASIL PENILAIAN MAHASISWA ===');
   write('Masukkan Nama Mahasiswa: '); 
   readln(nama);
   
